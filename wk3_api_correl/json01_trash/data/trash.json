@@ -1,0 +1,474 @@
+[
+  {
+    "papertonscollected": "420.95",
+    "mgptonscollected": "216.91",
+    "communitydistrict": "1",
+    "month": "2011 / 09",
+    "borough": "Manhattan",
+    "refusetonscollected": "1241.24"
+  },
+  {
+    "papertonscollected": "500.94",
+    "mgptonscollected": "269.77",
+    "communitydistrict": "2",
+    "month": "2011 / 09",
+    "borough": "Manhattan",
+    "refusetonscollected": "2245.23"
+  },
+  {
+    "papertonscollected": "388.52",
+    "mgptonscollected": "257.06",
+    "communitydistrict": "3",
+    "month": "2011 / 09",
+    "borough": "Manhattan",
+    "refusetonscollected": "3178.24"
+  },
+  {
+    "papertonscollected": "517.98",
+    "mgptonscollected": "335.69",
+    "communitydistrict": "4",
+    "month": "2011 / 09",
+    "borough": "Manhattan",
+    "refusetonscollected": "2279.71"
+  },
+  {
+    "papertonscollected": "278.28",
+    "mgptonscollected": "152.43",
+    "communitydistrict": "5",
+    "month": "2011 / 09",
+    "borough": "Manhattan",
+    "refusetonscollected": "1348.82"
+  },
+  {
+    "papertonscollected": "628.98",
+    "mgptonscollected": "385.61",
+    "communitydistrict": "6",
+    "month": "2011 / 09",
+    "borough": "Manhattan",
+    "refusetonscollected": "3117.88"
+  },
+  {
+    "papertonscollected": "1232.56",
+    "mgptonscollected": "617.15",
+    "communitydistrict": "7",
+    "month": "2011 / 09",
+    "borough": "Manhattan",
+    "refusetonscollected": "5461.86"
+  },
+  {
+    "papertonscollected": "1225.57",
+    "mgptonscollected": "643.79",
+    "communitydistrict": "8",
+    "month": "2011 / 09",
+    "borough": "Manhattan",
+    "refusetonscollected": "5904.28"
+  },
+  {
+    "papertonscollected": "291.66",
+    "mgptonscollected": "190.29",
+    "communitydistrict": "9",
+    "month": "2011 / 09",
+    "borough": "Manhattan",
+    "refusetonscollected": "2717.01"
+  },
+  {
+    "papertonscollected": "224.69",
+    "mgptonscollected": "156.22",
+    "communitydistrict": "10",
+    "month": "2011 / 09",
+    "borough": "Manhattan",
+    "refusetonscollected": "2962.33"
+  },
+  {
+    "papertonscollected": "180.59",
+    "mgptonscollected": "110.67",
+    "communitydistrict": "11",
+    "month": "2011 / 09",
+    "borough": "Manhattan",
+    "refusetonscollected": "2329.99"
+  },
+  {
+    "papertonscollected": "434.96",
+    "mgptonscollected": "380.6",
+    "communitydistrict": "12",
+    "month": "2011 / 09",
+    "borough": "Manhattan",
+    "refusetonscollected": "5281.14"
+  },
+  {
+    "papertonscollected": "91.27",
+    "mgptonscollected": "76.03",
+    "communitydistrict": "1",
+    "month": "2011 / 09",
+    "borough": "Bronx",
+    "refusetonscollected": "2052.58"
+  },
+  {
+    "papertonscollected": "82.04",
+    "mgptonscollected": "97.48",
+    "communitydistrict": "2",
+    "month": "2011 / 09",
+    "borough": "Bronx",
+    "refusetonscollected": "1664.38"
+  },
+  {
+    "papertonscollected": "80.88",
+    "mgptonscollected": "78.65",
+    "communitydistrict": "3",
+    "month": "2011 / 09",
+    "borough": "Bronx",
+    "refusetonscollected": "1917.67"
+  },
+  {
+    "papertonscollected": "169.44",
+    "mgptonscollected": "167.9",
+    "communitydistrict": "4",
+    "month": "2011 / 09",
+    "borough": "Bronx",
+    "refusetonscollected": "4588.12"
+  },
+  {
+    "papertonscollected": "164.09",
+    "mgptonscollected": "207.24",
+    "communitydistrict": "5",
+    "month": "2011 / 09",
+    "borough": "Bronx",
+    "refusetonscollected": "3735.12"
+  },
+  {
+    "papertonscollected": "95.04",
+    "mgptonscollected": "112.25",
+    "communitydistrict": "6",
+    "month": "2011 / 09",
+    "borough": "Bronx",
+    "refusetonscollected": "2328.64"
+  },
+  {
+    "papertonscollected": "237.94",
+    "mgptonscollected": "244.82",
+    "communitydistrict": "7",
+    "month": "2011 / 09",
+    "borough": "Bronx",
+    "refusetonscollected": "3926.07"
+  },
+  {
+    "papertonscollected": "351.2",
+    "mgptonscollected": "237.54",
+    "communitydistrict": "8",
+    "month": "2011 / 09",
+    "borough": "Bronx",
+    "refusetonscollected": "2651.04"
+  },
+  {
+    "papertonscollected": "200.64",
+    "mgptonscollected": "235.91",
+    "communitydistrict": "9",
+    "month": "2011 / 09",
+    "borough": "Bronx",
+    "refusetonscollected": "4510.36"
+  },
+  {
+    "papertonscollected": "378.97",
+    "mgptonscollected": "274.43",
+    "communitydistrict": "10",
+    "month": "2011 / 09",
+    "borough": "Bronx",
+    "refusetonscollected": "2860.96"
+  },
+  {
+    "papertonscollected": "333.6",
+    "mgptonscollected": "251.35",
+    "communitydistrict": "11",
+    "month": "2011 / 09",
+    "borough": "Bronx",
+    "refusetonscollected": "3307.65"
+  },
+  {
+    "papertonscollected": "390.3",
+    "mgptonscollected": "404.84",
+    "communitydistrict": "12",
+    "month": "2011 / 09",
+    "borough": "Bronx",
+    "refusetonscollected": "4185.39"
+  },
+  {
+    "papertonscollected": "535.61",
+    "mgptonscollected": "372.21",
+    "communitydistrict": "1",
+    "month": "2011 / 09",
+    "borough": "Brooklyn",
+    "refusetonscollected": "4819.68"
+  },
+  {
+    "papertonscollected": "472.87",
+    "mgptonscollected": "288.6",
+    "communitydistrict": "2",
+    "month": "2011 / 09",
+    "borough": "Brooklyn",
+    "refusetonscollected": "2356.85"
+  },
+  {
+    "papertonscollected": "253.98",
+    "mgptonscollected": "217.42",
+    "communitydistrict": "3",
+    "month": "2011 / 09",
+    "borough": "Brooklyn",
+    "refusetonscollected": "4323.49"
+  },
+  {
+    "papertonscollected": "192.22",
+    "mgptonscollected": "231.87",
+    "communitydistrict": "4",
+    "month": "2011 / 09",
+    "borough": "Brooklyn",
+    "refusetonscollected": "3405.96"
+  },
+  {
+    "papertonscollected": "242.86",
+    "mgptonscollected": "282.65",
+    "communitydistrict": "5",
+    "month": "2011 / 09",
+    "borough": "Brooklyn",
+    "refusetonscollected": "4610.77"
+  },
+  {
+    "papertonscollected": "635.78",
+    "mgptonscollected": "377.47",
+    "communitydistrict": "6",
+    "month": "2011 / 09",
+    "borough": "Brooklyn",
+    "refusetonscollected": "2444.26"
+  },
+  {
+    "papertonscollected": "439.06",
+    "mgptonscollected": "307.33",
+    "communitydistrict": "7",
+    "month": "2011 / 09",
+    "borough": "Brooklyn",
+    "refusetonscollected": "3490.23"
+  },
+  {
+    "papertonscollected": "237.52",
+    "mgptonscollected": "194.48",
+    "communitydistrict": "8",
+    "month": "2011 / 09",
+    "borough": "Brooklyn",
+    "refusetonscollected": "2880.5"
+  },
+  {
+    "papertonscollected": "239.63",
+    "mgptonscollected": "163.42",
+    "communitydistrict": "9",
+    "month": "2011 / 09",
+    "borough": "Brooklyn",
+    "refusetonscollected": "3310.09"
+  },
+  {
+    "papertonscollected": "577.12",
+    "mgptonscollected": "321.65",
+    "communitydistrict": "10",
+    "month": "2011 / 09",
+    "borough": "Brooklyn",
+    "refusetonscollected": "3523.83"
+  },
+  {
+    "papertonscollected": "698.25",
+    "mgptonscollected": "388.23",
+    "communitydistrict": "11",
+    "month": "2011 / 09",
+    "borough": "Brooklyn",
+    "refusetonscollected": "4984.23"
+  },
+  {
+    "papertonscollected": "767.46",
+    "mgptonscollected": "326.95",
+    "communitydistrict": "12",
+    "month": "2011 / 09",
+    "borough": "Brooklyn",
+    "refusetonscollected": "6184.15"
+  },
+  {
+    "papertonscollected": "190.11",
+    "mgptonscollected": "165.43",
+    "communitydistrict": "13",
+    "month": "2011 / 09",
+    "borough": "Brooklyn",
+    "refusetonscollected": "2292.82"
+  },
+  {
+    "papertonscollected": "477.62",
+    "mgptonscollected": "280.94",
+    "communitydistrict": "14",
+    "month": "2011 / 09",
+    "borough": "Brooklyn",
+    "refusetonscollected": "5004.17"
+  },
+  {
+    "papertonscollected": "704.89",
+    "mgptonscollected": "388.61",
+    "communitydistrict": "15",
+    "month": "2011 / 09",
+    "borough": "Brooklyn",
+    "refusetonscollected": "4790.05"
+  },
+  {
+    "papertonscollected": "102.8",
+    "mgptonscollected": "104.87",
+    "communitydistrict": "16",
+    "month": "2011 / 09",
+    "borough": "Brooklyn",
+    "refusetonscollected": "1998.63"
+  },
+  {
+    "papertonscollected": "323.77",
+    "mgptonscollected": "341.74",
+    "communitydistrict": "17",
+    "month": "2011 / 09",
+    "borough": "Brooklyn",
+    "refusetonscollected": "4672.69"
+  },
+  {
+    "papertonscollected": "653.01",
+    "mgptonscollected": "480.11",
+    "communitydistrict": "18",
+    "month": "2011 / 09",
+    "borough": "Brooklyn",
+    "refusetonscollected": "5975.13"
+  },
+  {
+    "papertonscollected": "584.42",
+    "mgptonscollected": "439.02",
+    "communitydistrict": "1",
+    "month": "2011 / 09",
+    "borough": "Queens",
+    "refusetonscollected": "4303.89"
+  },
+  {
+    "papertonscollected": "376.24",
+    "mgptonscollected": "268.12",
+    "communitydistrict": "2",
+    "month": "2011 / 09",
+    "borough": "Queens",
+    "refusetonscollected": "2813.21"
+  },
+  {
+    "papertonscollected": "414.94",
+    "mgptonscollected": "377.62",
+    "communitydistrict": "3",
+    "month": "2011 / 09",
+    "borough": "Queens",
+    "refusetonscollected": "5020.36"
+  },
+  {
+    "papertonscollected": "375.58",
+    "mgptonscollected": "287.04",
+    "communitydistrict": "4",
+    "month": "2011 / 09",
+    "borough": "Queens",
+    "refusetonscollected": "4496.98"
+  },
+  {
+    "papertonscollected": "724.31",
+    "mgptonscollected": "537.01",
+    "communitydistrict": "5",
+    "month": "2011 / 09",
+    "borough": "Queens",
+    "refusetonscollected": "5172"
+  },
+  {
+    "papertonscollected": "463.59",
+    "mgptonscollected": "276.91",
+    "communitydistrict": "6",
+    "month": "2011 / 09",
+    "borough": "Queens",
+    "refusetonscollected": "2991.34"
+  },
+  {
+    "papertonscollected": "929.72",
+    "mgptonscollected": "542.06",
+    "communitydistrict": "7",
+    "month": "2011 / 09",
+    "borough": "Queens",
+    "refusetonscollected": "6868.46"
+  },
+  {
+    "papertonscollected": "546.35",
+    "mgptonscollected": "333.45",
+    "communitydistrict": "8",
+    "month": "2011 / 09",
+    "borough": "Queens",
+    "refusetonscollected": "3930.76"
+  },
+  {
+    "papertonscollected": "448.43",
+    "mgptonscollected": "367.94",
+    "communitydistrict": "9",
+    "month": "2011 / 09",
+    "borough": "Queens",
+    "refusetonscollected": "4304.94"
+  },
+  {
+    "papertonscollected": "448.11",
+    "mgptonscollected": "373.9",
+    "communitydistrict": "10",
+    "month": "2011 / 09",
+    "borough": "Queens",
+    "refusetonscollected": "4251.46"
+  },
+  {
+    "papertonscollected": "566.36",
+    "mgptonscollected": "325.09",
+    "communitydistrict": "11",
+    "month": "2011 / 09",
+    "borough": "Queens",
+    "refusetonscollected": "3369.39"
+  },
+  {
+    "papertonscollected": "505.05",
+    "mgptonscollected": "583.34",
+    "communitydistrict": "12",
+    "month": "2011 / 09",
+    "borough": "Queens",
+    "refusetonscollected": "7201.87"
+  },
+  {
+    "papertonscollected": "593.86",
+    "mgptonscollected": "566.46",
+    "communitydistrict": "13",
+    "month": "2011 / 09",
+    "borough": "Queens",
+    "refusetonscollected": "5881.85"
+  },
+  {
+    "papertonscollected": "272.92",
+    "mgptonscollected": "205.08",
+    "communitydistrict": "14",
+    "month": "2011 / 09",
+    "borough": "Queens",
+    "refusetonscollected": "3758.73"
+  },
+  {
+    "papertonscollected": "723.06",
+    "mgptonscollected": "530.55",
+    "communitydistrict": "1",
+    "month": "2011 / 09",
+    "borough": "Staten Island",
+    "refusetonscollected": "6305.43"
+  },
+  {
+    "papertonscollected": "678.55",
+    "mgptonscollected": "455.27",
+    "communitydistrict": "2",
+    "month": "2011 / 09",
+    "borough": "Staten Island",
+    "refusetonscollected": "5155.77"
+  },
+  {
+    "papertonscollected": "933.83",
+    "mgptonscollected": "604.76",
+    "communitydistrict": "3",
+    "month": "2011 / 09",
+    "borough": "Staten Island",
+    "refusetonscollected": "6424.57"
+  }
+]

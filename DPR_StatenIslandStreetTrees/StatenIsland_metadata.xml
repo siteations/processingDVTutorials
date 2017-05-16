@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE metadata SYSTEM "http://www.fgdc.gov/metadata/fgdc-std-001-1998.dtd">
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>New York City Department of Parks &amp; Recreation</origin>
+				<pubdate>8/2007</pubdate>
+				<title>StatenIsland</title>
+				<geoform>vector digital data</geoform>
+				<onlink>\\olmsted.nycdpr.parks.nycnet\SHARED\ENVSERV\Forestry-NAS03\Data_Distributed\TreeCensus05\2005_Tree_Census_Bigapps.mdb</onlink>
+			</citeinfo>
+		</citation>
+		<descript>
+			<abstract>****PLEASE NOTE: This data was collected by volunteers and has not been field verified by NYCDPR. Not all trees were successfully geocoded. And, due to the address-based data collection, trees may actually be located next door, around the corner, across the street, etc. from the given address. See the field "TREELOCATI" for the site location code.*****
+
+Based on the 2005 New York City Street Tree Census conducted by Central Forestry, Borough Forestry offices, Green Apple Corps, and volunteers from 2005-2006.  The conversion process to spatial data began with 5 tables (one for each borough) in a 1997 Microsoft Access file.  All records were processed through GBAT Desktop Edition 05D using the following fields:  "BUILDINGNU", "BUILDINGST" and "BOROUGH".  
+
+All records that were sucessfully matched to an X and Y coordinate were than transformed into a shapefile using ArcMap.  Those records that were rejected were manually corrected by Stacy Kennedy.  The majority of corrections were removing non-numerical characters from the "BUILDINGNU" field.  After all records that were rejected had been reviewed they were re-processed by GBAT Desktop Edition 05D. 
+
+ All remaining records that were not matched to an X and &amp; Y coordinate were geocoded using an Address Locator with LION_4C.  All records, matched and unmatched were than merged into this one feature.</abstract>
+			<purpose>To represent data from the 2005 Street Tree Census</purpose>
+		</descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+					<caldate>12/2005</caldate>
+				</sngdate>
+			</timeinfo>
+			<current>ground condition</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>None planned</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc>
+-74.255423</westbc>
+				<eastbc>
+-74.058690</eastbc>
+				<northbc>
+40.648330</northbc>
+				<southbc>
+40.496876</southbc>
+			</bounding>
+		</spdom>
+		<keywords>
+			<theme>
+				<themekt>REQUIRED: Reference to a formally registered thesaurus or a similar authoritative source of theme keywords.</themekt>
+				<themekey>Urban Forestry</themekey>
+				<themekey>Tree Census</themekey>
+				<themekey>Street Tree</themekey>
+				<themekey>2005</themekey>
+			</theme>
+		</keywords>
+		<accconst>None.</accconst>
+		<useconst>The data remains at all times the sole property of the City of New York Parks &amp; Recreation.  In addition, this data may not be used for any commercial or private purposes.  The data must remain within the user's office.  The data shall not to be copied or used for any purpose that is outside the user's official duties at/for Parks or the City of New York.  The user assumes responsibility for the proper maintenance and security of the data, including any sharing within user's office.  Portions of the data may comprise a national security risk.  As a result, any use or sharing outside of the Parks is only permitted upon express authorization from Parks Legal Council's Office or MIS.  The user must notify MIS immediately if the data becomes defective, corrupted, lost, or stolen.</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntperp>
+					<cntper>Jessica Braden</cntper>
+					<cntorg>New York City Department of Parks &amp; Recreation</cntorg>
+				</cntperp>
+				<cntpos>GIS Manager, Division of Central Forestry</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Olmsted Center - Room 47</address>
+					<address>Flushing Meadows Corona Park</address>
+					<city>Flushing</city>
+					<state>New York</state>
+					<postal>11368</postal>
+				</cntaddr>
+				<cntvoice>718-760-6804</cntvoice>
+				<cntfax>718-760-6640</cntfax>
+				<cntemail>jessie.braden@parks.nyc.gov</cntemail>
+			</cntinfo>
+		</ptcontac>
+		<native>Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcCatalog 9.3.0.1770</native>
+	</idinfo>
+	<dataqual>
+		<lineage>
+			<procstep>
+				<procdesc>Metadata imported.</procdesc>
+				<srcused>C:\Documents and Settings\jessie.braden\Desktop\SI_metadata.xml</srcused>
+				<procdate>20091007</procdate>
+				<proctime>14401000</proctime>
+			</procstep>
+		</lineage>
+	</dataqual>
+	<spdoinfo>
+		<direct>Vector</direct>
+		<ptvctinf>
+			<sdtsterm>
+				<sdtstype>Entity point</sdtstype>
+				<ptvctcnt>101839</ptvctcnt>
+			</sdtsterm>
+		</ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<planar>
+				<mapproj>
+					<mapprojn>Lambert Conformal Conic</mapprojn>
+					<lambertc>
+						<stdparll>40.666667</stdparll>
+						<stdparll>41.033333</stdparll>
+						<longcm>-74.000000</longcm>
+						<latprjo>40.166667</latprjo>
+						<feast>984250.000000</feast>
+						<fnorth>0.000000</fnorth>
+					</lambertc>
+				</mapproj>
+				<planci>
+					<plance>coordinate pair</plance>
+					<coordrep>
+						<absres>0.000032</absres>
+						<ordres>0.000032</ordres>
+					</coordrep>
+					<plandu>survey feet</plandu>
+				</planci>
+			</planar>
+			<geodetic>
+				<horizdn>North American Datum of 1983</horizdn>
+				<ellips>Geodetic Reference System 80</ellips>
+				<semiaxis>6378137.000000</semiaxis>
+				<denflat>298.257222</denflat>
+			</geodetic>
+		</horizsys>
+		<vertdef>
+			<altsys>
+				<altres>0.000122</altres>
+				<altenc>Explicit elevation coordinate included with horizontal coordinates</altenc>
+			</altsys>
+		</vertdef>
+	</spref>
+	<eainfo>
+		<detailed>
+			<enttyp>
+				<enttypl>
+StatenIsland</enttypl>
+			</enttyp>
+			<attr>
+				<attrlabl>BOROUGH</attrlabl>
+				<attrdef>New York City borough.</attrdef>
+				<attrdefs>Central Forestry &amp; Horticulture, Street Tree Census 2005</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>ZIPCODE</attrlabl>
+				<attrdef>U.S. Postal Service?s 5-digit zip code.</attrdef>
+				<attrdefs>Geosupport 05D</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>ObjectID</attrlabl>
+				<attrdef>Legacy ID created during geocoding process.</attrdef>
+				<attrdefs>Central Forestry &amp; Horticulture, Street Tree Census 2005</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>FID_1</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>COMMDIST</attrlabl>
+				<attrdef>Community Board</attrdef>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>OBJECTID</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>TREEID</attrlabl>
+				<attrdef>Original ID given when record was entered from paper data sheets.</attrdef>
+				<attrdefs>Central Forestry &amp; Horticulture, Street Tree Census 2005</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>ONSTREET</attrlabl>
+				<attrdef>Name of street tree is located on.</attrdef>
+				<attrdefs>Central Forestry &amp; Horticulture, Street Tree Census 2005</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>PARITY</attrlabl>
+				<attrdef>Describes the address range of the block.  An address range of odd parity consits of all odd house numbers along the ONSTREET.  An even-parity range consits of all even house numbers along the ONSTREET.</attrdef>
+				<attrdefs>Central Forestry &amp; Horticulture, Street Tree Census 2005</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>CROSSSTREE</attrlabl>
+				<attrdef>Cross Street at low address end.</attrdef>
+				<attrdefs>Geosupport 05D</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>CROSSSTR_1</attrlabl>
+				<attrdef>Cross Street at high address end.</attrdef>
+				<attrdefs>Geosupport 05D</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>BUILDINGNU</attrlabl>
+				<attrdef>Building number of the closest building to the tree.</attrdef>
+				<attrdefs>Central Forestry &amp; Horticulture, Street Tree Census 2005</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>BUILDINGST</attrlabl>
+				<attrdef>Street the building closest to the tree is on.</attrdef>
+				<attrdefs>Central Forestry &amp; Horticulture, Street Tree Census 2005</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>TREELOCATI</attrlabl>
+				<attrdef>Describes the tree in relation to BUILDINGNU.  Possible values are 1 - Front, 2 - Side, 3 - Rear, 4 - Across, 5 - Adjacent, 6 - Median, 7 - Side/Across, 8 - Side/Median, 9 Assigned.</attrdef>
+				<attrdefs>Central Forestry &amp; Horticulture, Street Tree Census 2005</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>SITE</attrlabl>
+				<attrdef>Number tree at address, in order of ascending address.</attrdef>
+				<attrdefs>Central Forestry &amp; Horticulture, Street Tree Census 2005</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>TREEPIT</attrlabl>
+				<attrdef>Pit type. Possible values are: 1 - sidewalk, 2 - continuous, 3 - lawn.</attrdef>
+				<attrdefs>Central Forestry &amp; Horticulture, Street Tree Census 2005</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>TREECONDIT</attrlabl>
+				<attrdef>Condition of tree.  Possible values are: 1 - Excellent. Full, well balanced crown and limb structure; leaves normal size color; no dead or broken branches; trunk solid, bark intact. 2 - Good. Crown uneven or misshapen; some mechanical damage to bark or trunk; some signs of insects or disease; leaves somewhat below normal size and quantity; some dead or broken branches (less than half of the tree). 3 - Poor: large dead limbs with over one-half of the tree already dead or removed; large cavities; drastic deformities; leaves significantly below normal size and quantity; severe insect or disease damage. 4 - Dead.  Dead tree; leaves absent; twigs brittle.  5 - Shaft.  All branches removed; trunk left standing; sprouts may or may not be evident.  6 - Stump.  Stump shorter than breast height; leaves entirely absent or present only on stump sprouts.  7 - Empty Tree Pit.  Nothing there at all.</attrdef>
+				<attrdefs>Central Forestry &amp; Horticulture, Street Tree Census 2005</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>DIAMETER</attrlabl>
+				<attrdef>Diameter at Breast Height.  Diameter of tree at 4.5 feet from the ground.  For trees with multiple trunks that divided below 3 feet from the ground, the diameters of each stem were added together.  Stumps were measured across the face of the stump at its widest point.</attrdef>
+				<attrdefs>Central Forestry &amp; Horticulture, Street Tree Census 2005</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>SPECIES</attrlabl>
+				<attrdef>Species Code.</attrdef>
+				<attrdefs>Central Forestry &amp; Horticulture, Street Tree Census 2005</attrdefs>
+			</attr>
+		</detailed>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntperp>
+					<cntper>Jessica Braden</cntper>
+					<cntorg>NYC Parks Department - Central Forestry &amp; Horticulture</cntorg>
+				</cntperp>
+				<cntpos>GIS Manager</cntpos>
+			</cntinfo>
+		</distrib>
+		<resdesc>Downloadable Data</resdesc>
+	</distinfo>
+	<metainfo>
+		<metd>20091007</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>NYC Parks &amp; Recreation - Central Forestry &amp; Horticulture</cntorg>
+					<cntper>Jessie Braden</cntper>
+				</cntorgp>
+				<cntpos>GIS Manager</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Olmsted Center - Room 47</address>
+					<address>Flushing Meadows Corona Park</address>
+					<city>Flushing</city>
+					<state>NY</state>
+					<postal>11368</postal>
+				</cntaddr>
+				<cntvoice>718-760-6804</cntvoice>
+				<cntfax>718-760-6640</cntfax>
+			</cntinfo>
+		</metc>
+		<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv>FGDC-STD-001-1998</metstdv>
+		<mettc>local time</mettc>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+	</metainfo>
+	<Esri><ModDate>20091023</ModDate><ModTime>14002000</ModTime></Esri><mdDateSt Sync="TRUE">20091023</mdDateSt></metadata>
